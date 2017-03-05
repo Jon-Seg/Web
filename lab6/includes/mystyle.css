@@ -1,0 +1,31 @@
+.e1 {
+    color:red;
+}
+
+.button {
+    display: block;
+    width: 75px;
+    height: 25px;
+    background: #D3D3D3;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    color: black;
+    font-weight: bold;
+}
+
+
+body{
+    width: 40%;
+    margin: 150px auto;
+}
+
+/*
+Student Declaration
+I/we declare that the attached assignment is my/our own work in accordance
+with Seneca Academic Policy. No part of this assignment has been copied
+manually or electronically from any other source (including web sites) or
+distributed to other students.
+Name ----Jonathan Seguin-------------------
+Student ID ---035472158------------
+*/
